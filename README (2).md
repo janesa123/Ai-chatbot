@@ -14,23 +14,30 @@ mascot, chat-style messages, tool panels, and saved conversations.
 
 ### Jeni AI robot mascot
 
-![Jeni AI robot mascot](robot.png)
+![Jeni AI robot mascot]
+<img width="1883" height="860" alt="Screenshot 2026-10-17 221029" src="https://github.com/user-attachments/assets/9d2f8b59-f5c9-4e2d-9d1a-7ab6719822f3" />
+
 
 ### Dashboard / welcome screen
 
-![Jeni AI dashboard](chatbot1.png)
+![Jeni AI dashboard]
+<img width="1883" height="860" alt="Screenshot 2026-10-17 221029" src="https://github.com/user-attachments/assets/9d2f8b59-f5c9-4e2d-9d1a-7ab6719822f3" />
 
 ### Chat conversation
 
-![Jeni AI chat conversation](chatbot2.png)
+![Jeni AI chat conversation]
+<img width="1917" height="958" alt="Screenshot 2026-10-17 221127" src="https://github.com/user-attachments/assets/1592a8ba-206f-4da6-a744-f6bd7bf0b6b5" />
 
 ### Chat and response example
 
-![Jeni AI response example](chatbot3.png)
+![Jeni AI response example]
+<img width="1917" height="958" alt="Screenshot 2026-10-17 221127" src="https://github.com/user-attachments/assets/1592a8ba-206f-4da6-a744-f6bd7bf0b6b5" />
 
 ### Saved Chats
 
-![Jeni AI Saved Chats](chatbot4.png)
+![Jeni AI Saved Chats]
+<img width="1913" height="882" alt="Screenshot 2026-10-17 221200" src="https://github.com/user-attachments/assets/d234b945-f5f3-444b-b6e9-100849929036" />
+
 
 > The image links above are relative paths. Keep the image files in the
 > same repository (or update the paths) for them to display on GitHub.
